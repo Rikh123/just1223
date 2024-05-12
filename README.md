@@ -1,1 +1,2 @@
-# just1223
+# happy-mothers-day
+A simple game for my mom.
