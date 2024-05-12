@@ -201,32 +201,3 @@ body {
   visibility: hidden;
   opacity: 0;
 }
-
-/* Styles for mobile devices */
-@media only screen and (max-width: 600px) {
-  body {
-    font-size: 14px; /* Adjust the font size for better readability on mobile */
-  }
-
-  .overlay {
-    display: none; /* Hide the overlay on mobile */
-  }
-
-  .giftMessage {
-    display: none; /* Hide the gift message on mobile */
-  }
-
-  .headerContainer h1 {
-    font-size: 48px; /* Adjust the font size of the header text for mobile */
-  }
-
-  .headerContainer h2 {
-    display: none; /* Hide the header subtitle on mobile */
-  }
-
-  .notification {
-    display: none; /* Hide the notification on mobile */
-  }
-
-  /* You can add more styles for other elements as needed */
-}
